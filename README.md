@@ -1,34 +1,59 @@
-# 👋 Hi there! I'm Evany
+<div>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=23&pause=1000&color=b4ccfa&width=435&lines=About+me%3A" alt="Typing SVG" /></a>
+</div>
 
-Welcome to my GitHub!
 
-I'm a passionate learner on a journey to become a junior web developer. I have a technical degree in System Development and I'm currently focused on improving both my programming skills and my English.
+```java
+public class Evany {
 
----
+  private String graduating = "Systems Development Technician";
+  private String goalsDescription = "Deepen and expand my knowledge in programming, development and english.";
+  private String[] interests = {"Fullstack Development", "Software Engineering", "Books"};
 
-## 💡 About Me
+}
 
-- 🎓 Technical Degree in System Development  
-- 🌱 Currently learning **PHP**, **CodeIgniter**, and building real-world web applications  
-- 📚 Focused on mastering **HTML**, **CSS**, **JavaScript**, **MySQL**, and the **MVC** architecture  
-- 🌍 Learning and practicing English every day  
-- 🧠 Always seeking self-improvement through coding and consistent learning  
+```
 
----
+<div align="center">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=evanysilvestre&show_icons=true&theme=holi&include_all_commits=true&count_private=true&locale=en&"/>
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=evanysilvestre&show_icons=true&theme=holi&include_all_commits=true&count_private=true&locale=en&&layout=compact&langs_count=8&card_width=320" />
+</div>
 
-## 🛠️ Technologies I'm Working With
+##
 
-- **Languages**: HTML5, CSS3, JavaScript, PHP  
-- **Backend**: PHP with CodeIgniter Framework  
-- **Database**: MySQL  
-- **Tools**: Git, GitHub, VS Code  
-- **Soft Skills**: Responsibility, commitment, communication, growth mindset  
+<div align="center" style="display: inline_block"><br>
+    
+<img align="center" alt="Raphs-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
 
----
+<img align="center" alt="Raphs-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  
+<img align="center" alt="Raphs-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
 
-## 📫 Let's Connect
-- [Email](evany.120@gmail.com) 
+<img align="center" alt="Raphs-Bootstrap" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original.svg">
 
----
+<img align="center" alt="Raphs-Linux" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" />
 
-Thanks for visiting my profile! Feel free to check out my projects or reach out if you'd like to collaborate 🚀
+<img align="center" alt="Raphs-AWS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg">      
+  
+<img align="center" alt="Raphs-Java" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original-wordmark.svg">
+
+<img align="center" alt="Raphs-MySQL" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg">
+          
+<img align="center" alt="Raphs-Eclipse" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/eclipse/eclipse-original.svg">
+
+<img align="center" alt="Raphs-Git" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg">
+
+<img align="center" alt="Raphs-VsCode" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg">
+
+<img align="center" alt="Raphs-Apache" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/apache/apache-original-wordmark.svg">
+
+
+</div>
+
+##
+  
+<div align="center"> 
+  <a href="mailto:evany.120@gmail.com"><img align="center" alt="Gmail" src="https://img.shields.io/badge/Gmail-063970?style=for-the-badge&logo=gmail&logoColor=white"></a>
+  <a href="https://www.linkedin.com/in/raphaelamonteiro/" target="_blank"><img align="center" alt="Linkedin" src="https://img.shields.io/badge/LinkedIn-e83023?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+  <a href="https://www.instagram.com/evanysilvestre/" target="_blank"><img align="center" alt="Instagram" src="https://img.shields.io/badge/Instagram-063970?style=for-the-badge&logo=instagram&logoColor=white"></a>
+</div>
