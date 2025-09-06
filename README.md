@@ -1,5 +1,5 @@
 <div>
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=23&pause=1000&color=b4ccfa&width=435&lines=About+me%3A" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=23&pause=1000&color=81a9fc&width=435&lines=About+me%3A" alt="Typing SVG" /></a>
 </div>
 
 
@@ -46,6 +46,10 @@ public class Evany {
 <img align="center" alt="Raphs-VsCode" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg">
 
 <img align="center" alt="Raphs-Apache" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/apache/apache-original-wordmark.svg">
+
+<img align="center" alt="Raphs-Apache" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg">
+
+
 
 
 </div>
